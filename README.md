@@ -1,3 +1,36 @@
+# Weather App
+
+## Overview
+
+The Weather App is a simple and user-friendly React application that allows users to search for current weather information based on city names. It utilizes the OpenWeatherMap API to fetch real-time weather data, including temperature, humidity, wind speed, and weather conditions.
+
+## Features
+
+- **Search for Weather**: Enter a city name to retrieve current weather data.
+- **Real-time Data**: Fetches live weather information using the OpenWeatherMap API.
+- **Responsive Design**: Adaptable layout for various screen sizes.
+- **Weather Icons**: Displays relevant weather icons based on current conditions.
+
+## Tech Stack
+
+- **Frontend**: React.js
+- **Styling**: CSS
+- **API**: OpenWeatherMap API
+
+## Installation
+
+To run the app locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Nandu912/weather-tracker.git
+   cd weather-tracker
+
+## Deployment
+
+This app is deployed using [Vercel](https://vercel.com). You can view the live app here: [Live Weather App]([https://actual-live-url.vercel.app](https://weather-tracker-835h3baqf-nandanas-projects-a4b15cb4.vercel.app)).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
