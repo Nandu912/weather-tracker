@@ -28,7 +28,7 @@ To run the app locally, follow these steps:
 
 ## Deployment
 
-This app is deployed using [Vercel](https://vercel.com). You can view the live app here: [Live Weather App]((https://weather-tracker-835h3baqf-nandanas-projects-a4b15cb4.vercel.app).
+This app is deployed using [Vercel](https://vercel.com). You can view the live app here: [Live Weather App](https://weather-tracker-835h3baqf-nandanas-projects-a4b15cb4.vercel.app).
 
 
 # Getting Started with Create React App
